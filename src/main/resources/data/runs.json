@@ -3,160 +3,160 @@
         {
             "id": 1,
             "title": "Morning Run",
-            "started_on": "2024-06-01T06:00:00",
-            "completed_on": "2024-06-01T06:45:00",
+            "startedOn": "2024-06-01T06:00:00",
+            "completedOn": "2024-06-01T06:45:00",
             "kilometers": 4,
             "location": "OUTDOOR"
         },
         {
             "id": 2,
             "title": "Noon Run",
-            "started_on": "2024-06-01T12:15:00",
-            "completed_on": "2024-06-01T13:00:00",
+            "startedOn": "2024-06-01T12:15:00",
+            "completedOn": "2024-06-01T13:00:00",
             "kilometers": 5,
             "location": "INDOOR"
         },
         {
             "id": 3,
             "title": "Evening Jog",
-            "started_on": "2024-06-01T18:30:00",
-            "completed_on": "2024-06-01T19:15:00",
+            "startedOn": "2024-06-01T18:30:00",
+            "completedOn": "2024-06-01T19:15:00",
             "kilometers": 3,
             "location": "OUTDOOR"
         },
         {
             "id": 4,
             "title": "Night Run",
-            "started_on": "2024-06-01T20:00:00",
-            "completed_on": "2024-06-01T20:45:00",
+            "startedOn": "2024-06-01T20:00:00",
+            "completedOn": "2024-06-01T20:45:00",
             "kilometers": 6,
             "location": "INDOOR"
         },
         {
             "id": 5,
             "title": "Morning Run",
-            "started_on": "2024-06-02T06:15:00",
-            "completed_on": "2024-06-02T07:00:00",
+            "startedOn": "2024-06-02T06:15:00",
+            "completedOn": "2024-06-02T07:00:00",
             "kilometers": 7,
             "location": "OUTDOOR"
         },
         {
             "id": 6,
             "title": "Noon Run",
-            "started_on": "2024-06-02T12:00:00",
-            "completed_on": "2024-06-02T12:45:00",
+            "startedOn": "2024-06-02T12:00:00",
+            "completedOn": "2024-06-02T12:45:00",
             "kilometers": 5,
             "location": "OUTDOOR"
         },
         {
             "id": 7,
             "title": "Evening Jog",
-            "started_on": "2024-06-02T18:45:00",
-            "completed_on": "2024-06-02T19:30:00",
+            "startedOn": "2024-06-02T18:45:00",
+            "completedOn": "2024-06-02T19:30:00",
             "kilometers": 4,
             "location": "INDOOR"
         },
         {
             "id": 8,
             "title": "Night Run",
-            "started_on": "2024-06-02T20:30:00",
-            "completed_on": "2024-06-02T21:15:00",
+            "startedOn": "2024-06-02T20:30:00",
+            "completedOn": "2024-06-02T21:15:00",
             "kilometers": 5,
             "location": "OUTDOOR"
         },
         {
             "id": 9,
             "title": "Morning Run",
-            "started_on": "2024-06-03T06:00:00",
-            "completed_on": "2024-06-03T06:50:00",
+            "startedOn": "2024-06-03T06:00:00",
+            "completedOn": "2024-06-03T06:50:00",
             "kilometers": 5,
             "location": "INDOOR"
         },
         {
             "id": 10,
             "title": "Noon Run",
-            "started_on": "2024-06-03T12:30:00",
-            "completed_on": "2024-06-03T13:15:00",
+            "startedOn": "2024-06-03T12:30:00",
+            "completedOn": "2024-06-03T13:15:00",
             "kilometers": 3,
             "location": "OUTDOOR"
         },
         {
             "id": 11,
             "title": "Morning Run",
-            "started_on": "2024-06-02T05:45:00",
-            "completed_on": "2024-06-02T06:30:00",
+            "startedOn": "2024-06-02T05:45:00",
+            "completedOn": "2024-06-02T06:30:00",
             "kilometers": 4,
             "location": "OUTDOOR"
         },
         {
             "id": 12,
             "title": "Evening Jog",
-            "started_on": "2024-06-02T18:15:00",
-            "completed_on": "2024-06-02T19:00:00",
+            "startedOn": "2024-06-02T18:15:00",
+            "completedOn": "2024-06-02T19:00:00",
             "kilometers": 3,
             "location": "INDOOR"
         },
         {
             "id": 13,
             "title": "Night Run",
-            "started_on": "2024-06-03T20:00:00",
-            "completed_on": "2024-06-03T21:00:00",
+            "startedOn": "2024-06-03T20:00:00",
+            "completedOn": "2024-06-03T21:00:00",
             "kilometers": 6,
             "location": "OUTDOOR"
         },
         {
             "id": 14,
             "title": "Noon Run",
-            "started_on": "2024-06-03T12:00:00",
-            "completed_on": "2024-06-03T12:45:00",
+            "startedOn": "2024-06-03T12:00:00",
+            "completedOn": "2024-06-03T12:45:00",
             "kilometers": 5,
             "location": "INDOOR"
         },
         {
             "id": 15,
             "title": "Morning Run",
-            "started_on": "2024-06-04T06:15:00",
-            "completed_on": "2024-06-04T07:00:00",
+            "startedOn": "2024-06-04T06:15:00",
+            "completedOn": "2024-06-04T07:00:00",
             "kilometers": 7,
             "location": "OUTDOOR"
         },
         {
             "id": 16,
             "title": "Evening Jog",
-            "started_on": "2024-06-04T18:30:00",
-            "completed_on": "2024-06-04T19:15:00",
+            "startedOn": "2024-06-04T18:30:00",
+            "completedOn": "2024-06-04T19:15:00",
             "kilometers": 4,
             "location": "OUTDOOR"
         },
         {
             "id": 17,
             "title": "Night Run",
-            "started_on": "2024-06-05T20:30:00",
-            "completed_on": "2024-06-05T21:15:00",
+            "startedOn": "2024-06-05T20:30:00",
+            "completedOn": "2024-06-05T21:15:00",
             "kilometers": 5,
             "location": "INDOOR"
         },
         {
             "id": 18,
             "title": "Noon Run",
-            "started_on": "2024-06-05T12:15:00",
-            "completed_on": "2024-06-05T13:00:00",
+            "startedOn": "2024-06-05T12:15:00",
+            "completedOn": "2024-06-05T13:00:00",
             "kilometers": 6,
             "location": "OUTDOOR"
         },
         {
             "id": 19,
             "title": "Morning Run",
-            "started_on": "2024-06-06T06:00:00",
-            "completed_on": "2024-06-06T06:50:00",
+            "startedOn": "2024-06-06T06:00:00",
+            "completedOn": "2024-06-06T06:50:00",
             "kilometers": 5,
             "location": "INDOOR"
         },
         {
             "id": 20,
             "title": "Evening Jog",
-            "started_on": "2024-06-06T18:45:00",
-            "completed_on": "2024-06-06T19:30:00",
+            "startedOn": "2024-06-06T18:45:00",
+            "completedOn": "2024-06-06T19:30:00",
             "kilometers": 4,
             "location": "OUTDOOR"
         }
